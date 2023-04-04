@@ -1,7 +1,7 @@
-fa891d4e425cd5ae47cd8c674f181db9 *DESCRIPTION
-6dbd1b75ccffe13559b898f222d45e45 *NAMESPACE
+252ea64ab9a08b8aba5507e358d2549c *DESCRIPTION
+effcbe67e11450ee77de80e9b8ce426a *NAMESPACE
 0a9320f9b0f30f1962aa0c943372eb33 *R/LRT.stat.R
-a67309cb3ca0868022639ea15d71133b *R/MADPop-package.R
+25147ed029f636043357d0bae2f79d18 *R/MADPop-package.R
 029dced89d864f3eb7011faf19af67c5 *R/UM.eqtest.R
 7c68d0da0cf94f29f4bd209e97a249b2 *R/UM.suff.R
 25c475b1f506e21b439bd2d5855648cc *R/chi2.stat.R
@@ -11,10 +11,12 @@ eddb5544447c2d653d0b57f8bc59a353 *R/geno.format.R
 366c589a2c9f2cc2af95ead0e82500f9 *R/hUM.post.R
 7a9f2b8632d7adabfb2c42d53255a257 *R/stanmodels.R
 eb5e40b08036709e259bcca2827bfda3 *build/vignette.rds
+1cc60bdd8610449d30184e0bb374bf46 *configure
+6bea7bdbd44ffa386677bfdec2d1984b *configure.win
 8019c2ec191789fe9dcd524c220dd946 *data/fish215.RData
 dfe4a1945e9ca9ef5b88c0a4345146b6 *inst/doc/MADPop-quicktut.R
 42dbfa6960b01e8f04bb8e2fb86bceec *inst/doc/MADPop-quicktut.Rmd
-fba8c34e21693cce76d18fc8194082a5 *inst/doc/MADPop-quicktut.html
+7a36f76cba824b4ea2aad12993dbe32d *inst/doc/MADPop-quicktut.html
 117bf05a7f8eeef85dc593cb0603666c *inst/extdata/fish215-cleanup.R
 97188bd6ce2856f359b82fc024ab8c07 *inst/extdata/fish_study_215.csv
 855c064dbf8deaff96c8dc8a87169109 *inst/include/stan_meta_header.hpp
@@ -29,8 +31,7 @@ e2bfd94bf3f6ab6a59adde2324fbbea4 *man/colSort.Rd
 578ed94891d43f93cd8029914ccdceef *man/fish215.Rd
 1221b1fccb26dcaff8cd017e7672fd3d *man/geno.format.Rd
 06d1561754b87f6f0459fe56b272f281 *man/hUM.post.Rd
-206a1183386165c922ae6dd37d7378e0 *src/Makevars
-66d6aef607935be5ead2bd71ebf6e98f *src/Makevars.win
+8eb94ab0ca38362bef9a1ae171d63fad *src/Makevars
 704ad9847d4d2532dd4477ee959ab02c *src/RcppExports.cpp
 830792e8f67183ed0cfb10e38442e10d *src/stanExports_DirichletMultinomial.cc
 06021cfdc514f13d9b1c3eb1005960de *src/stanExports_DirichletMultinomial.h
