@@ -1,8 +1,8 @@
 Type: Package
 Package: MADPop
 Title: MHC Allele-Based Differencing Between Populations
-Version: 1.1.5
-Date: 2023-04-03
+Version: 1.1.6
+Date: 2023-10-13
 Authors@R: 
     c(person(given = "Martin",
              family = "Lysy",
@@ -26,22 +26,22 @@ Description: Tools for the analysis of population differences
 URL: https://github.com/mlysy/MADPop
 BugReports: https://github.com/mlysy/MADPop/issues
 License: GPL-3
-Depends: R (>= 3.4.0), rstan (>= 2.18.1)
+Depends: R (>= 3.4.0), rstan (>= 2.26.0)
 Imports: methods, Rcpp (>= 0.12.0), stats, rstantools
 Suggests: knitr, rmarkdown, testthat
 LinkingTo: BH (>= 1.66.0), Rcpp (>= 0.12.0), RcppEigen (>= 0.3.3.3.0),
-        rstan (>= 2.18.1), StanHeaders (>= 2.18.0), RcppParallel (>=
+        rstan (>= 2.26.0), StanHeaders (>= 2.26.0), RcppParallel (>=
         5.0.1)
 VignetteBuilder: knitr
 SystemRequirements: GNU make
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 7.2.2
+RoxygenNote: 7.2.3
 NeedsCompilation: yes
-Packaged: 2023-04-04 13:41:06 UTC; mlysy
+Packaged: 2023-10-13 15:58:03 UTC; mlysy
 Author: Martin Lysy [cre, aut],
   Peter W.J. Kim [aut],
   Terin Robinson [ctb]
 Maintainer: Martin Lysy <mlysy@uwaterloo.ca>
 Repository: CRAN
-Date/Publication: 2023-04-04 15:00:10 UTC
+Date/Publication: 2023-10-13 16:30:02 UTC
